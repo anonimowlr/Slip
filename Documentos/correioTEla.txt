@@ -1,0 +1,24 @@
+  COEM1010       SISBB - Sistema de Informações Banco do Brasil       13/10/2015
+  F2872117                          Correio                             11:15:48
+  +-------------------------- Elaborar Texto Novo -------------------- Pag.:   1
+  Titulo...............: ______________________________
+  Nota Tecnica Pessoal.: N (S=Sim,N=Nao)
+  Pronto para Expedicao: N (S=Sim,N=Nao)
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+      >
+  ------------------------------------------------------------------------------
+  F1 Ajuda F9 Expedir
+  F2 Salva F3 Sai F6 Imprime F7 Pag.Ant F8 Prox.Pag F11 Edicao F12 Anexo/Obs.

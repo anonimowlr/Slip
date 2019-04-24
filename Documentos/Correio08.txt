@@ -1,0 +1,24 @@
+  COEM1020       SISBB - Sistema de Informações Banco do Brasil       13/10/2015
+  F2872117                          Correio                             11:22:23
+  -------------------         Elaborar Texto - Alterar      ---------- Pag.:   1
+  Periodo: 06102015 a 13102015  (Alteravel)
+
+  Nr. Titulo                    Responsavel            Data  Hora  Tipo
+  --- ------------------------- ---------------------  ----------- -------------
+    1 RISCO UNIÃO - TCI - DALTR MARCOS PARENTE         13/10 11:22 TEXTO
+    2 RISCO UNIÃO - ENTREGA PFN ELTON MACEDO           13/10 11:21 TEXTO
+    3 Ofício 02830/2015-BCB/Dec LILIAN CARNEIRO DE     13/10 11:17 TEXTO
+    4 RISCO UNIAO/TCI-PRODUTORA KEILA FLAVIA DA        13/10 10:43 TEXTO
+    5 RISCO UNIAO - ENTREGA PSF BEATRIZ LIRIO          13/10 10:42 TEXTO
+    6 RISCO UNIAO - Entrega à P BEATRIZ LIRIO          13/10 10:41 TEXTO
+    7 RISCO UNIAO - Entrega PFN BEATRIZ LIRIO          13/10 10:40 TEXTO
+    8 Risco União - Entrega à P BEATRIZ LIRIO          13/10 10:12 TEXTO
+    9 R.União/CAF - Laci Amaral ELIZETE GOMES LISBOA   13/10 09:06 TEXTO
+   10 ANS                       OLANDIA ALTINA DE      13/10 09:00 TEXTO
+   11 RISCO UNIÃO - ENTREGA À P BEATRIZ LIRIO          13/10 08:36 TEXTO
+   12 Ofício                    MARIA CONCEICAO        09/10 15:03 TEXTO
+
+  Informe numero da linha: ___
+  ------------------------------------------------------------------------------
+
+  F1 Ajuda  F3 Sai  F5 Encerra  F7 Pag.Ant  F8 Prox.Pag

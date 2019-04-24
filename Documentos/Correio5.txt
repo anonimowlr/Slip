@@ -1,0 +1,24 @@
+  COEM1010       SISBB - Sistema de Informações Banco do Brasil       13/10/2015
+  F2872117                          Correio                             11:21:00
+  +-------------------------- Elaborar Texto Novo -------------------- Pag.:   1
+  Titulo...............: RISCO UNIÃO - ENTREGA PFN CE__
+  Nota Tecnica Pessoal.: N (S=Sim,N=Nao)
+  Pronto para Expedicao: N (S=Sim,N=Nao)
+      > De : 1903 - CENOP BRASÍLIA - DF/RISCO UNIÃO #ULTRACONFIDENCIAL
+      > Para: 8495 - SUPER VAR E GOV CE - CE
+      > A/C : ADMIN/PLANE
+      >
+      > Sr. Gerente,
+      >
+      > Enviamos, via malote, dossiê de Inscrição em Dívida Ativa da União,
+      > que pedimos as seguintes providências:
+      >
+      > a) Confirmar recebimento, mesma via;
+      > b) Encaminhar à Procuradoria da Fazenda Nacional, localizada à Rua
+      > Barão de Aracati, 909, 7º Andar - Aldeota - Fortaleza - CE;
+      > c) Entregar o dossiê e acolher protocolo de recebimento do ofício
+      > naquela Procuradoria;
+      > d) Após entrega, encaminhar a este Centro a via do ofício protocolada
+  ------------------------------------------------------------------------------
+  Texto salvo em 13/10/2015 as 11:21:00 por F2872117
+  F2 Salva F3 Sai F6 Imprime F7 Pag.Ant F8 Prox.Pag F11 Edicao F12 Anexo/Obs.

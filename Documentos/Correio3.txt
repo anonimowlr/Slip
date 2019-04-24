@@ -1,0 +1,24 @@
+  COEM1010       SISBB - Sistema de Informações Banco do Brasil       13/10/2015
+  F2872117                          Correio                             11:19:06
+  +-------------------------- Elaborar Texto Novo -------------------- Pag.:   2
+  Titulo...............: RISCO UNIÃO - ENTREGA PFN CE__
+  Nota Tecnica Pessoal.: N (S=Sim,N=Nao)
+  Pronto para Expedicao: N (S=Sim,N=Nao)
+      > pela PFN, primeiro por meio digital e depois enviar o documento
+      > físico.
+      >
+      > 2. Dossiê encaminhado:
+      >
+      > Ofício Nr. Operação Devedor
+      > 2015/8208973 40/00202-0 Silvia Helena da Silva
+      > 2015/8207112 40/00169-5 Cicera Maria Alexandre da Silva
+      > 2015/8217411 40/00326-4 Antonio Helder Vieira dos Anjos
+      > 2015/8205617 40/00212-8 Maria Aparecida de Paula Silva
+      > 2015/8210772 40/00184-9 Maria Ivanilda Moraes do Vale
+      > 2015/8269939 40/00589-5 Terezinha de Jesus Tiburcio da Silva
+      > 2015/8252421 40/00365-5 Valdeci Franca de Souza
+      >
+      >
+  ------------------------------------------------------------------------------
+  F1 Ajuda F9 Expedir
+  F2 Salva F3 Sai F6 Imprime F7 Pag.Ant F8 Prox.Pag F11 Edicao F12 Anexo/Obs.

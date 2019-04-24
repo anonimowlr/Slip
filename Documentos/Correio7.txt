@@ -1,0 +1,24 @@
+  COEM0015       SISBB - Sistema de Informações Banco do Brasil       13/10/2015
+  F2872117                          Correio                             11:21:56
+  ------------------------------------------------------------------------------
+
+  Redigir                                          Outras Opções
+  01.   Novo                                       31. * Alteração do Ajuda
+  02.   Rascunho                                   32. * Manutenção do Log
+  03.   Editar Recebido                            33. * Limites de Expedição
+  04.   Editar Expedido                            35. * Limites de Grupos
+  09.   Excluir
+
+
+  Mensagens Corporativas
+  21. > Para Dependências
+  22.   Para Administradores
+  23.   Para Funcionários
+  24.   Nota Técnica Pessoal
+
+
+
+  Informe Opção: __                                   # Transação não disponível
+  --------------------------------------------------- * Acesso não autorizado
+
+  F1 Ajuda F3 Sai F5 Encerra

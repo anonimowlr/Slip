@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="jDialog1">
+      <Properties>
+        <Property name="title" type="java.lang.String" value="Descri&#xe7;&#xe3;o sobre o Flash Extrato"/>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" pref="593" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="240" max="-2" attributes="0"/>
+                          <Component id="jButton2" min="-2" pref="99" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="27" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" pref="581" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jButton2" min="-2" pref="49" max="-2" attributes="0"/>
+                  <EmptySpace pref="23" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt; &lt;body&gt; &#x9;&lt;h3&gt;Robo FrameRiscoUniao&lt;/h3&gt; &#x9;&lt;p&gt;Descri&#xe7;&#xe3;o da aplica&#xe7;&#xe3;o:&lt;/p&gt; &#x9;- O FrameRiscoUniao A captura informa&#xe7;&#xf5;es do Sistama de Informa&#xe7;&#xf5;es do &#x9;Banco do Brasil(SISBB), referente &#xe0; contratos do IDA. &#x9;&lt;hr&gt; &#x9;&lt;p&gt;Instru&#xe7;&#xf5;es de uso:&lt;/p&gt; &#x9;&lt;ol&gt; &#x9;&#x9;&lt;li&gt;Preencha o n&#xfa;mero da ag&#xea;ncia, contrato, n&#xfa;mero do gsv e &#x9;&#x9;&#x9;cidade da procuradoria.&lt;/li&gt; &#x9;&#x9;&lt;li&gt;Clique em capturar.&lt;/li&gt; &#x9;&#x9;&lt;li&gt;Aguarde todas as telas auxiliares fecharem para gerar os &#x9;&#x9;&#x9;Documentos de captura. &#x9;&lt;/ol&gt; &#x9;&lt;hr&gt; &#x9;&lt;p&gt;Instru&#xe7;&#xf5;es sobre o funcionamento do rob&#xf4;:&lt;/p&gt; &#x9;&lt;ul&gt; &#x9;&#x9;&lt;li&gt;O rob&#xf4; utiliza os seguintes caminhos para realizar as &#x9;&#x9;&#x9;capturas das informa&#xe7;&#xf5;es.&lt;/li&gt; &#x9;&#x9;&lt;ul&gt; &#x9;&#x9;&#x9;&lt;li&gt;Clientes &gt; 01&gt;01&amp;gt;01 Endere&#xe7;os&lt;/li&gt; &#x9;&#x9;&lt;/ul&gt; &#x9;&#x9; &#x9;&#x9; &#x9;&#x9;&lt;li&gt;Caso o Robo n&#xe3;o consiga realizar a elabora&#xe7;&#xe3;o dos relat&#xf3;rios &#x9;&#x9;&#x9;feche e abra a aplica&#xe7;&#xe3;o novamente clicando apenas no Bot&#xe3;o de gerar &#x9;&#x9;&#x9;arquivos, vez que as informa&#xe7;&#xf5;es capturadas j&#xe1; est&#xe3;o salvas no Banco &#x9;&#x9;&#x9;de Dados da app.&lt;/li&gt; &#x9;&#x9;&lt;li&gt;Caso o rob&#xf4; pare na tela de ag&#xea;ncia de noticias ou vota&#xe7;&#xe3;o &#x9;&#x9;&#x9;aperte o bot&#xe3;o na aplica&#xe7;&#xe3;o (F3) para que o rob&#xf4; volte ao fluxo &#x9;&#x9;&#x9;normal de execu&#xe7;&#xe3;o em caso de falha.&lt;/li&gt; &#x9;&#x9;&lt;li&gt;Caso o rob&#xf4; pare em alguma tela retorne a aplica&#xe7;&#xe3;o para a &#x9;&#x9;&#x9;tela inicial do Sisbb aperte o bot&#xe3;o cancelar e capture novamente o &#x9;&#x9;&#x9;as informa&#xe7;&#xf5;es.&lt;/li&gt; &#x9;&#x9;&lt;li&gt;Caso alguma das telas auxiliares trave feche a aplica&#xe7;&#xe3;o e &#x9;&#x9;&#x9;execute com um n&#xfa;mero menor opera&#xe7;&#xf5;es&lt;/li&gt; &#x9;&lt;/ul&gt; &#x9;&lt;hr&gt; &lt;/body&gt; &lt;/html&gt;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="FECHAR"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Menu class="javax.swing.JMenuBar" name="jMenuBar1">
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="jMenu1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ajuda"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="jMenuItem1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Sobre a Aplica&#xe7;&#xe3;o"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jMenuItem1ActionPerformed"/>
+              </Events>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+      </SubComponents>
+    </Menu>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="PAPELETA DIGITAL"/>
+    <Property name="iconImage" type="java.awt.Image" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+      <Connection code="new ImageIcon(&quot;C:\\Program Files (x86)\\SisBB\\SisBB.gif&quot;).getImage()" type="code"/>
+    </Property>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="menuBar" type="java.lang.String" value="jMenuBar1"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jLabel1" alignment="0" pref="0" max="32767" attributes="0"/>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="jLabel2" min="-2" pref="331" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jToolBar1" min="-2" pref="310" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="jLabel1" min="-2" pref="52" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jToolBar1" pref="84" max="32767" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JToolBar" name="jToolBar1">
+      <Properties>
+        <Property name="rollover" type="boolean" value="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodePre" type="java.lang.String" value="try {&#xa;            Process p = Runtime.getRuntime().exec(&quot;java -jar M:\\PUBLICA\\Elton1903\\Bibliotecas\\Mensagens\\FlashMensagens.jar&quot;);&#xa;        } catch (Exception e) {&#xa;        }&#xa;"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/br/com/bb/imagens/notificar.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Papeleta Lista"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonManual">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/br/com/bb/imagens/CadastroManual.jpg"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Papeleta Manual"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonManualActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButtonPesquisar">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/br/com/bb/imagens/Find User Male-52.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Pesquisar Papeleta"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonPesquisarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/br/com/bb/imagens/enviar.png"/>
+            </Property>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/br/com/bb/imagens/FaixaBB.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/br/com/bb/imagens/FaixaRodape.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
